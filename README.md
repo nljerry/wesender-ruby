@@ -42,4 +42,4 @@ Ruby 2.7+
 ## Links
 
 - [Documentatie](https://wesender.nl/docs/sdks/ruby)
-- [Issues](https://github.com/nljerry/wesender-ruby/issues)
+- [Issues](https://github.com/wesender/wesender-ruby/issues)
